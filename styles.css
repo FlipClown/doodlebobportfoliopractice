@@ -1,0 +1,71 @@
+body {
+    /* Positioning */
+    margin-bottom: 150px;
+
+    background-color: black;
+}
+
+html {
+    
+    position: relative;
+
+    min-height: 100%;
+}
+
+.about-doodlebob-header {
+
+    margin-bottom: 33px;
+    font-family: 'Lobster', cursive;
+
+    font-size: 60px;
+    color: yellow;
+
+    border: 5px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: white;
+
+    background-color:rgb( 100, 0, 175);
+
+}
+
+.about-doodlebob-content > p {
+    
+    padding-top: 20px;
+
+    font-size: 16px;
+    line-height: 30px;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
+
+#doodlebob-image {
+    
+    float: left;
+    
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.footer {
+
+    border: 5px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: rgb( 100, 0, 175);
+
+
+    background-color: yellow;
+}
+
+.text-muted-footer {
+
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: black;
+}
+
+
+
